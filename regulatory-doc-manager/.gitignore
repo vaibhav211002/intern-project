@@ -1,0 +1,4 @@
+regulatory_docs.db
+__pycache__/
+*.pyc
+.venv/
