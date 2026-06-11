@@ -75,6 +75,7 @@ st.markdown(
         max-height: 520px;
         overflow-y: auto;
         white-space: pre-wrap;
+        color: #000;
     }
     </style>
     """,
