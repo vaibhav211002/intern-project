@@ -29,7 +29,7 @@ st.markdown(
         --tag-bg: #DFF0FF;
         --tag-fg: #0D4F80;
     }
-    .stApp { background: #F6F8FB; }
+.stApp { background: #F6F8FB; color: #000; }
     [data-testid="stSidebar"] { background: #1A2535 !important; }
     [data-testid="stSidebar"] * { color: #CDD8E8 !important; }
     [data-testid="stSidebar"] .stButton > button {
