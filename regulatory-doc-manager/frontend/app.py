@@ -38,6 +38,9 @@ st.markdown(
         border: 1px solid #2E4260;
         border-radius: 6px;
     }
+    label, .stTextInput label, .stFileUploader label {
+        color: #000 !important;
+    }
     [data-testid="stSidebar"] .stButton > button:hover { background: #1B6CA8; }
 
     div.doc-card {
